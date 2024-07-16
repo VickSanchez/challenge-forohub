@@ -59,7 +59,7 @@
 
 :heavy_check_mark: `Funcionalidad 5:` Actualizar topicos
 
-:heavy_check_mark: `Feature 6:` Eliminar topicos
+:heavy_check_mark: `Funcionalidad 6:` Eliminar topicos
 
 
 ## EndPoints
